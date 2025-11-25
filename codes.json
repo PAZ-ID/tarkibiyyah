@@ -18,5 +18,10 @@
         "code": "alfin",
         "expiresAt": null,
         "claimedByDeviceHash": null
+    },
+    {
+        "code": "masukaja",
+        "expiresAt": null,
+        "claimedByDeviceHash": null
     }
 ]
