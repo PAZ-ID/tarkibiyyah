@@ -23,5 +23,10 @@
         "code": "masukaja",
         "expiresAt": null,
         "claimedByDeviceHash": null
+    },
+    {
+        "code": "anshori",
+        "expiresAt": 1779802941230,
+        "claimedByDeviceHash": null
     }
 ]
