@@ -33,5 +33,10 @@
         "code": "syaikhi",
         "expiresAt": null,
         "claimedByDeviceHash": null
+    },
+    {
+        "code": "fahrur",
+        "expiresAt": 1779842016289,
+        "claimedByDeviceHash": null
     }
 ]
