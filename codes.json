@@ -28,5 +28,10 @@
         "code": "anshori",
         "expiresAt": 1779802941230,
         "claimedByDeviceHash": null
+    },
+    {
+        "code": "syaikhi",
+        "expiresAt": null,
+        "claimedByDeviceHash": null
     }
 ]
