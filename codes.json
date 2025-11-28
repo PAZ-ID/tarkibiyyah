@@ -40,11 +40,6 @@
         "claimedByDeviceHash": null
     },
     {
-        "code": "chan",
-        "expiresAt": 1766904041938,
-        "claimedByDeviceHash": null
-    },
-    {
         "code": "teslah",
         "expiresAt": 1764917114091,
         "claimedByDeviceHash": null
