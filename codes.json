@@ -38,5 +38,10 @@
         "code": "fahrur",
         "expiresAt": 1779842016289,
         "claimedByDeviceHash": null
+    },
+    {
+        "code": "28nov",
+        "expiresAt": 1766904651074,
+        "claimedByDeviceHash": null
     }
 ]
