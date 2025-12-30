@@ -10,11 +10,6 @@
         "claimedByDeviceHash": null
     },
     {
-        "code": "musthofa",
-        "expiresAt": 1766618214820,
-        "claimedByDeviceHash": null
-    },
-    {
         "code": "alfin",
         "expiresAt": null,
         "claimedByDeviceHash": null
